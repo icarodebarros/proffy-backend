@@ -1,12 +1,9 @@
-# Funcionalidades
+# proffy-backend
 
-## Conexões
+Projeto desenvolvido em [Node](https://nodejs.org/en/) que compõe o sistema Proffy.
 
-- Rota para listar o total de conexões realizadas;
-- Rota para criar uma nova conexão;
+Proffy é uma plataforma que auxilia a conexão entre professores e estudantes. Atualmente na versão de *produto mínimo viável* (MVP) este projeto é uma base inicial para estudos da stack: **react**, **react-native** e **node**.
 
-## Aulas
+O sistema Proffy é composto pelos projetos proffy-web (react), proffy-mobile (react-native) e proffy-backend (node).
 
-- Rota para criar uma aula;
-- Rota para listar aulas;
-    - Filtrar por matéria, dia da semana e horário;
+Esse é um projeto arquitetado no evento *Next Level Week* (NLW) pela [RocketSeat](https://rocketseat.com.br/).
